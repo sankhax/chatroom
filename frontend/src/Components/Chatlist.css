@@ -1,8 +1,0 @@
-.active {
-	font-weight: bold;
-	background-color:rgb(156 163 175);
-	width : 105%;
-	margin: 0.75rem;
-	border-radius: 8px 0px 0px 8px;
-	-webkit-transition: all 0.4s ; 
-}
